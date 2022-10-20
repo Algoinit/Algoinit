@@ -1,4 +1,4 @@
-package Hash.advancedExample;
+package Hash.basicExample.baekjoon7785;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package Hash.basicExample;
+package Hash.basicExample.baekjoon7785;
 
 import java.util.*;
 import java.util.stream.Collectors;

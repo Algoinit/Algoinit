@@ -1,4 +1,4 @@
-package Hash.intermediateExample;
+package Hash.basicExample.baekjoon7785;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package Hash.advancedExample;
+package Hash.basicExample.baekjoon7785;
 
 /* 1. 속한 노래가 많이 재생된 장르: 장르 내에 속한 노래들의 재생 숫자의 합 비교
 *  2. 장르 내에서 많이 재생된 노래: 말 그대로 가장 많이 재생한 노래 재생 횟수 비교

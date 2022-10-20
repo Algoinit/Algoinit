@@ -1,4 +1,4 @@
-package Hash.advancedExample;
+package Hash.basicExample.baekjoon7785;
 
 public class P42579SortTwoDArray {
     public void findMin(int current, String[][] twoDArray) {
