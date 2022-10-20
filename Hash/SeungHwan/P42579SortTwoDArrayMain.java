@@ -1,4 +1,4 @@
-package Hash.advancedExample;
+package Hash.basicExample.baekjoon7785;
 
 public class P42579SortTwoDArrayMain {
     public static void main(String[] args) {
