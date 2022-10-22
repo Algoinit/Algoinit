@@ -1,5 +1,3 @@
-package Hash.basicExample.baekjoon7785;
-
 import java.util.Scanner;
 
 public class B1158Main {
