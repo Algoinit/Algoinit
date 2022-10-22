@@ -1,5 +1,3 @@
-package Hash.basicExample.baekjoon7785;
-
 public class FailedB1417QueueMain {
     public static void main(String[] args) {
         int[] testVoteInfo = {5, 10, 7, 3, 8};

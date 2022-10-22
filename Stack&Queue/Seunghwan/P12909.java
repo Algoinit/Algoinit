@@ -1,5 +1,3 @@
-import java.util.Stack;
-
 public class P12909 {
     public boolean correctBrackets(String s) {
         Stack<Character> stack = new Stack<>();
